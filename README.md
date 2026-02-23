@@ -4,7 +4,11 @@ This project analyzes Indian Premier League (IPL) cricket data using Power BI. T
 # Objectives
 
 Analyze team performance across seasons
+
 Identify top-performing players
+
 Compare win percentages
+
 Analyze toss impact on match results
+
 Track total runs and wickets
