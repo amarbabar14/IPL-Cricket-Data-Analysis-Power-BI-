@@ -1,10 +1,10 @@
-#🏏 IPL Cricket Data Analysis Dashboard (Power BI)
+# 🏏 IPL Cricket Data Analysis Dashboard (Power BI)
 
-## • Designed and developed an interactive IPL Cricket Analytics Dashboard using Microsoft Power BI, analyzing historical IPL season data including teams, players, matches, venues, and performance statistics.
+ • Designed and developed an interactive IPL Cricket Analytics Dashboard using Microsoft Power BI, analyzing historical IPL season data including teams, players, matches, venues, and performance statistics.
 
-## • Performed data cleaning and transformation using Power Query Editor, handling missing values, formatting columns, creating calculated columns, and building relationships between multiple tables (matches, players, teams, batting and bowling stats).
+ • Performed data cleaning and transformation using Power Query Editor, handling missing values, formatting columns, creating calculated columns, and building relationships between multiple tables (matches, players, teams, batting and bowling stats).
 
-## • Built dynamic data models using DAX (Data Analysis Expressions) to calculate key performance indicators such as:
+ • Built dynamic data models using DAX (Data Analysis Expressions) to calculate key performance indicators such as:
 
 Total Matches Played
 
@@ -20,7 +20,7 @@ Venue-wise Winning Trends
 
 Season-wise Performance Comparison
 
-## • Created visually interactive reports using:
+### • Created visually interactive reports using:
 
 KPI Cards
 
